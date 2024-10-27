@@ -1,0 +1,35 @@
+.my-nav{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    }
+    
+    .carousel-item {
+      height: 100vh;
+      background: no-repeat center center scroll;
+      background-size: cover;
+    }
+
+    .carousel-caption{
+        margin-bottom: 250px;
+        font-weight: bolder;
+        
+    }
+
+a{
+  text-decoration: none;
+}
+
+#textcarousel{
+               margin: auto;
+}
+
+#carousel-text{
+  margin-bottom: 300px;
+}
+
+#carousel-indicators button{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}

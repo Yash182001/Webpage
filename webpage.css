@@ -1,0 +1,58 @@
+.my-nav{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    }
+    
+    .carousel-item {
+      height: 100vh;
+      background: no-repeat center center scroll;
+      background-size: cover;
+    }
+
+    .carousel-caption{
+        margin-bottom: 250px;
+        font-weight: bolder;
+        
+    }
+
+a{
+  text-decoration: none;
+}
+
+#textcarousel{
+               margin: auto;
+}
+
+#carousel-text{
+  margin-bottom: 300px;
+}
+
+#carousel-indicators button{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #2796DE;
+   
+}
+
+#carousel-text-icon{
+  background-color: #2796DE;
+  color: black;
+  border: black;
+    
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  
+  outline: black;
+  background-color: rgba(0, 0, 0, 0.3);
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  
+}
+
+.accordion-item:hover{
+   color: white;
+
+}
